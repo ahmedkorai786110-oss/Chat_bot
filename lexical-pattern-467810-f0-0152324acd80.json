@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lexical-pattern-467810-f0",
+  "private_key_id": "0152324acd80315c1e2d6b71a669101149e99ffa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSoLGK9XHergRn\nBvyh97GECx5Y2IUHwRv8Q1FbL7lU7z0ql5xY4l137i2WUB4BecN+duXEQ6/ND5Qa\nsRdYQRJJYCaZjDwBG2XkiR7x0LJk5JAjopP+rY/TAU+xE26L/UbHokRycGThKsZh\nQE+jIx84M49TVTRsWChhUGXr36kQYD9T3NQPI6bcnDutzvF2096ihCBGr2IgeyRt\n9/uFpad7I4xjtrI/gB4jCJqW5EwH8h4ayBklX0yOyS3hKpaQdfL8Q2CfacoVkBCH\nDqEiikepxMTHnAkEpwe1s/kGElZLJ6Y9xWt83cV0BiXr0wWI9sV9RZfdZ6K4CWUI\nMJyISTi3AgMBAAECggEAPJ3smq5KqChysefr2v07BGJiyHT/zByCXlZNWq3ga5Yy\nh0h8wYPcHIDac9D44bnWTlYPiC1mseBS4l+m9Uo85gsa8MPQHQ1yhJQF6NgED09M\nQEUwzHHM25AcDD0oando4FlN05WPItI5p5Fnme6otHb6P6Rc4vV4IZGO05RZxpE2\n3Y4d0OPxcek90kxelBQSPZ2Avgqs36jWafZFjvde2PPrUleevEgGC3A7LYn5roT0\nQbYag2D/doQ3khQcBiXEtwLtukmFTQV3YJLygUrpsKHcZqvGivheBZVqkPYxdwuJ\nPTX6mLqHahWXBov9u/GEKtMo7xr5gHPp9XcI0P/4EQKBgQDrIqiSzlv+ke1KzeFq\nqamr6P8erAykI58CWPrhzg0lfRzHdJgaw+uccxNBg4Vu+7ajByF1hcq9hr0HpJh8\n4662hF59VESDfwBGYhWEHpTClqWaYT2e/8VBiiCPQilhrkLR7E4uE+ELQO/riR63\nVGD6L2N/LjlodqWs0urwGPssmQKBgQDlUVFrDsfC7ISto/I88dt77ZNOrXgmudOt\nGWP9e2175MUxySuUfASIlvd/aKy3EFmTOkZV9z3C+1j1KpBOqQxraB0R6e67RIed\nAAlfaUaT8Xr8hBdbTzVznrkacIxJd8kKp4B/0CdbrryTuJgK8EhRbYRyNUTww/gz\nz+VJu0oRzwKBgAI+DV+BCk2ONLYe6oRq48xY533yZBh4on6SPKpEncl6vPiF+yFe\nNvQCAPACAhbB3ccGPWJyiTFvhIP7JN0kCrmA36nQUOr0HhuNuejNpduJNkEXpk/K\n3qW2XIMhPWXKFKcN2t0DoYTK9L7JSvqymk4of4lp9nAxmXjhdg4eHt8ZAoGBALhz\nAhQknVUSPV4VosCWoT47R+Ne8GflzHdNFvpKjzO6PUrgTuduIY9kLssSfOn6grJD\ni1OWPN1aoqEAjXZXzx+NbOR9z4Jdit8jqmZOHXDeKVh3Pvo46fuHzceQg6aMbO7e\n8CLeYOoD0LbZIaKaxvCIMKJUapFmb3vtWrZFqTxNAoGBAOr/o2ToakpqhFByKBwc\nt04STtMiHOb+mqvQMcKq7R9cmzpI1D/HGgqcrYZDOB8t8PNQanfHbGAwqlNiG8dt\n2kb5t8lj6Dd16UAAub3fzI7HiRJQefiNH/gmhqAwvJ+Skua0SynyN7wCf1Kk/FSy\nFc0uqe2xtFdpRLaHGw5Lzqqp\n-----END PRIVATE KEY-----\n",
+  "client_email": "urdu-assistant@lexical-pattern-467810-f0.iam.gserviceaccount.com",
+  "client_id": "105037251127255129717",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/urdu-assistant%40lexical-pattern-467810-f0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

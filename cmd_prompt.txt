@@ -1,0 +1,1 @@
+set GOOGLE_APPLICATION_CREDENTIALS=C:\Users\Usman\Desktop\chatbot\chat_bot\lexical-pattern-467810-f0-0152324acd80.json
