@@ -27,7 +27,7 @@ chat_bot/
 
 🔑 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/USERNAME/chat_bot.git
+git clone https://github.com/ahmedkorai786110-oss/Chat_bot
 cd chat_bot
 
 2. Install Dependencies
